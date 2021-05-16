@@ -13,7 +13,7 @@
     max-width: 1170px;
     height: 736px;
     margin: 0 auto;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .header{
@@ -39,7 +39,3 @@
     font-weight:normal;
 }
 
-
-.col-lg-4, .col-lg-6, .row{
-    border: 2px solid red;
-}
